@@ -85,7 +85,7 @@
                 <PERF_RES_FPS_FPSGO_MARGIN_MODE Param1="1"/>
                 <PERF_RES_FPS_EARA_THERMAL_ENABLE Param1="1"/>
                 <PERF_RES_FPS_FBT_RESCUE_F Param1="10"/>
-                <PERF_RES_CPUFREQ_MAX_CLUSTER_0 Param1="1586000">
+                <PERF_RES_CPUFREQ_MAX_CLUSTER_0 Param1="1586000"/>
             </Activity>
         </Package>
         <Package name="com.tencent.tmgp.sgamece">
